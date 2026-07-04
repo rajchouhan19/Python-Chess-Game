@@ -43,7 +43,20 @@ python main.py
 
 ## Screenshots
 
-(Add screenshots here)
+### 🏠 Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### ♟ Classic Theme
+
+![Classic Theme](screenshots/classic-theme.png)
+
+### 🌙 Dark Theme
+
+![Dark Theme](screenshots/dark-theme.png)
+
+---
+
 
 ## Future Improvements
 
