@@ -1,0 +1,50 @@
+# Window
+
+WIDTH = 1100
+HEIGHT = 800
+
+# Chess Board
+
+# Window
+
+BOARD_SIZE = 750      # Change this if needed
+SIDE_PANEL = 320
+
+WIDTH = BOARD_SIZE + SIDE_PANEL
+HEIGHT = BOARD_SIZE
+
+ROWS = 8
+COLS = 8
+
+SQUARE_SIZE = BOARD_SIZE // ROWS
+
+FPS = 60
+# Classic Theme
+
+CLASSIC_LIGHT = (240, 217, 181)
+CLASSIC_DARK = (181, 136, 99)
+
+# Dark Theme
+
+DARK_LIGHT = (205, 205, 205)
+DARK_DARK = (70, 70, 70)
+
+# UI
+
+PANEL_BG = (35, 35, 35)
+
+TEXT = (245,245,245)
+
+BUTTON = (60,60,60)
+
+BUTTON_HOVER = (90,90,90)
+
+# Highlights
+
+SELECTED = (255,215,0)
+
+LEGAL_MOVE = (70,180,70)
+
+LAST_MOVE = (100,180,255)
+
+CHECK = (255,80,80)
